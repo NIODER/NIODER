@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIODER
 - 👀 I’m interested in russian rock, chinese tea and bike tours.
-- 🌱 I’m currently learning tdlib, C++;
+- 🌱 I’m currently learning tdlib, C++, CMake;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nioder125@gmail.com
 
